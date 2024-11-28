@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hola mundo cd
-=======
-Hola mundo 2 mi segundo commit
->>>>>>> 256b21088771a911474c729ef16a983262494f0f
+Ya actualizamos
